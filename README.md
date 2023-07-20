@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[<img align="left" width="390" alt="🦑" src="https://avatars.githubusercontent.com/u/134622479?v=4)">](#)
 <!--
 **RobinPecheurTechnobel/RobinPecheurTechnobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
