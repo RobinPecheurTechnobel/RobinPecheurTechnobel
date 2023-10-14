@@ -1,6 +1,6 @@
 #  [<img align="left" width="30" style="margin-right: -12px;" src="https://avatars.githubusercontent.com/u/134622479?v=4)">](#) Robin Pêcheur
 
-[Fr] Je suis en ce moment en Fromation et ce github est mon dépôt pour mes projets produit durant ces jours d'apprentissage.
+[Fr] Je suis en ce moment en Formation et ce github est mon dépôt pour mes projets produit durant ces jours d'apprentissage.
 
 [Eng] I'm currently training and I'm using github for all my projects during this training period.
 
