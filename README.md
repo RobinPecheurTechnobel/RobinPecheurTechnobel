@@ -38,12 +38,21 @@ Not really an exerice, it's just an attempted summary displayed like a course. (
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+5. Mind Master
+
+   Projet de fin de formation : Un wikipédia d'idée partageable en groupe ou visible par tous
+
+   Final training project : A wikipedia of idea shareable between a group or visible to everyone
+   
+  | [Backend](https://github.com/RobinPecheurTechnobel/Mind-Master-Backend) | [Frontend](https://github.com/RobinPecheurTechnobel/Mind-Master-Frontend) |
+  |---|---|
+  |![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+
+## Ce readme / This readme
 
 Ce Readme me sert aussi d'exercice
 
 This readme is also an exercice for me
-
-ToDo : mettre un résumé sous chaque lien vers les projets
 
 ## Ressources / Resources
 [List of shield / liste de badge](https://github.com/Ileriayo/markdown-badges)
